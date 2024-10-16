@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/google/martian/v3"
-	"github.com/google/martian/v3/parse"
+	"github.com/dreamsxin/martian/v3"
+	"github.com/dreamsxin/martian/v3/parse"
 )
 
 const idHeaderName string = "X-Martian-ID"
